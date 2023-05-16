@@ -1,0 +1,40 @@
+{
+    "students": [
+      {
+        "name": "Shailendra Sonar",
+        "email": "ssonar61@gmail.com",
+        "phone": "8770887549",
+        "branch": "Computer Science"
+      },
+      {
+        "name": "Harsh sinha",
+        "email": "harshsinha@gmail.com",
+        "phone": "8876543210",
+        "branch": "IT"
+      },
+      {
+        "name": "Tanu Bnade",
+        "email": "tanu@gmail.com",
+        "phone": "830542255",
+        "branch": "Information technology"
+      },
+      {
+        "name": "Neha",
+        "email": "neha@gmail.com",
+        "phone": "61165.63",
+        "branch": "Et & t Engineering"
+      },
+      {
+        "name": "Mayank mishra",
+        "email": "mayank@gmail.com",
+        "phone": "564646",
+        "branch": "Electrical Engineering"
+      },
+      {
+        "name": "Abhijeet sharma",
+        "email": "Abhijeet@gmail.com",
+        "phone": "32156484",
+        "branch": "Mechanical Engineering"
+      }
+    ]
+  }
